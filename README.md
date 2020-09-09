@@ -1,7 +1,8 @@
 # Beat the Hackers
+My first repository on GitHub. For those who care about security on the web. Create strong passwords for your accounts. <br />
+
 Password Generator
 -
-My first repository on GitHub. For those who care about security on the web. Create strong passwords for your accounts. <br />
 Run the code on python 3+ and generate your password. <br />
 The characters are randomized and you can choose the length of the password. It includes upper and lowercase, symbols and numbers. <br />
 
