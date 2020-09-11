@@ -6,7 +6,7 @@ Password Generator
 Run the code on python 3+ and generate your password. <br />
 The characters are randomized and you can choose the length of the password. It includes upper and lowercase, symbols and numbers. <br />
 
-Suggestions:
+Suggestions for creating your own password:
 -
 ~ don't use the same password for multiple accounts <br />
 ~ don't include personal information in your passwords <br />
